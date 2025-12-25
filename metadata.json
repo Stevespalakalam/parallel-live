@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Parallel Live Clone",
+  "description": "A high-fidelity simulation of a popular social media live streaming interface, featuring realistic chat simulation, viewer count dynamics, and camera integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
